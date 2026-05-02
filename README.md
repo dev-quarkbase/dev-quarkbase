@@ -7,26 +7,27 @@ Especialista em transformar lógica complexa em motores de software eficientes, 
 
 ---
 
-### 🛠️ Current Status: Building Infrastructure
-> **Status:** 🏗️ Atualmente organizando a infraestrutura core e o ambiente de Cloud na Oracle. 
+### 🛠️ Current Status: Building V3 Infrastructure
+> **Status:** 🏗️ Atualmente organizando a infraestrutura V3. 
 > 
-> Estou preparando o terreno para o lançamento de soluções de automação e Micro-SaaS. Os primeiros repositórios públicos e cases de arquitetura estarão disponíveis em breve.
+> Atualmente migrando arquiteturas monolíticas em Flask para sistemas desacoplados e reativos com Node.js e React, focando em performance e experiência do usuário final. Os primeiros repositórios públicos e cases de arquitetura estarão disponíveis em breve.
 
 ---
 
 ### 🚀 Áreas de Atuação (Freelance)
 
-* **Automação de Processos (Backend):** Desenvolvimento de fluxos inteligentes, raspagem de dados e integração de sistemas utilizando **Python**.
-* **Criação de Micro-SaaS (FullStack):** Construção de produtos digitais com **Flask**, **PostgreSQL** e **Tailwind CSS**, integrando checkout via **Stripe**.
-* **Arquitetura de Cloud & DevOps:** Deploy e orquestração com **Docker**, com foco em infraestrutura segura na **Oracle Cloud (OCI)**.
+* **Sistemas Full-Stack Modernos:** Construção de aplicações reativas com **React.js (Vite)** e backends robustos em **Node.js (Express)**.
+* **Automação de Processos & IA:** Desenvolvimento de fluxos inteligentes, raspagem de dados e integração de sistemas utilizando **Python**.
+* **Criação de Micro-SaaS (FullStack):** Produtos digitais escaláveis com **PostgreSQL**, arquitetura de serviços e integração de checkout **(Stripe)**.
+* **Arquitetura de Cloud & DevOps:** Deploy e orquestração com **Docker**, com foco em ambientes seguros **(Linux & Oracle Cloud)**.
 
 ---
 
 ### 🛠️ Tech Stack em Foco
 
-* **Linguagens & Frameworks:** Python, Flask, SQL.
-* **Frontend:** HTML5, Tailwind CSS.
-* **Infraestrutura & Cloud:** Docker, Oracle Cloud Infrastructure (OCI).
+* **Backend:** Node.js, Python (Flask), SQL.
+* **Frontend:** React.js, Tailwind CSS, HTML5.
+* **Infraestrutura & Cloud:** Docker, Oracle Cloud (OCI), Linux (Fedora, Qubes OS).
 * **Database:** PostgreSQL.
 * **Fintech:** Stripe API Integration.
 
@@ -34,10 +35,10 @@ Especialista em transformar lógica complexa em motores de software eficientes, 
 
 ### 📈 O Diferencial QuarkBase
 Não entrego apenas código; entrego **Engenharia de Valor**. 
-1.  **Escalabilidade:** Sistemas preparados para crescer.
-2.  **Segurança:** Foco em proteção de dados e transações seguras.
+1.  **Escalabilidade:** Sistemas preparados para o crescimento.
+2.  **Segurança:** Foco rigoroso em proteção de dados e isolamento de ambientes.
 
-3.  **Low-Op Design:** Automações feitas para rodar com o mínimo de manutenção técnica.
+3.  **Performance:** Interfaces rápidas com React aliadas ao processamento assíncrono do Node.js.
 
 ---
 
